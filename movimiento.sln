@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movimiento", "movimiento\movimiento.csproj", "{093BC3B9-97A4-44C3-83BE-87F2BA2C1EA9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movimiento", "movimiento\Movimiento.csproj", "{093BC3B9-97A4-44C3-83BE-87F2BA2C1EA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movimientoBL", "movimientoBL\movimientoBL.csproj", "{203D8572-FD49-4DE6-B249-1CB5141F6843}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovimientoBL", "movimientoBL\MovimientoBL.csproj", "{203D8572-FD49-4DE6-B249-1CB5141F6843}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movimientoDL", "movimientoDL\movimientoDL.csproj", "{C592C330-1516-4928-BCE7-28786DC35E01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovimientoDL", "movimientoDL\MovimientoDL.csproj", "{C592C330-1516-4928-BCE7-28786DC35E01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -79,5 +79,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\movimientoBL\MovimientoBL.csproj">
+      <Project>{203d8572-fd49-4de6-b249-1cb5141f6843}</Project>
+      <Name>MovimientoBL</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
